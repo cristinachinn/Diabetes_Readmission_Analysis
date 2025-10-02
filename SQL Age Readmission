@@ -1,8 +1,0 @@
-SELECT
-  age,
-  COUNT(*) AS total,
-  SUM(CASE WHEN days_until_readmission = '<30' THEN 1 ELSE 0 END) AS readmissions_lessthan_30days,
-  ROUND(SUM(CASE WHEN days_until_readmission = '<30' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS percent_readmitted
-FROM `diabetic-473818.diabetic.diabetic-473818`
-GROUP BY age
-ORDER BY age;
