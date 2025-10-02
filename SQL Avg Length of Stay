@@ -1,6 +1,0 @@
-SELECT
-  readmitted,
-  ROUND(AVG(time_in_hospital), 2) AS avg_length_of_stay
-FROM `diabetic-473818.diabetic.diabetic-473818`
-GROUP BY readmitted
-ORDER BY avg_length_of_stay DESC;
