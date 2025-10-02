@@ -11,7 +11,7 @@ Process:<br>
 Cleaning -> EDA -> Modeling -> Dashboard
 
 Steps Taken:<br>
--Defined the objective: analyzed diabetes-related data to uncover trends and insights.<br>
+-Defined the objective: analyze diabetes-related data to uncover trends and insights.<br>
 -Determined key question to answer: What is the main driver of hospital readmissions within 30 days?<br>
 -Collect the dataset from Kaggle: https://www.kaggle.com/datasets/brandao/diabetes?select=diabetic_data.csv<br>
 -Cleaned the data which involved identifying and removing critical values, null or empty fields, filling in missing data, correcting typos, standardizing formats and numeric values, removing duplicate values, exluding cases that did not meet project criteria, transforming data, and validating data.<br>
