@@ -12,6 +12,8 @@ Cleaning -> EDA -> Modeling -> Dashboard
 
 Results:
 
-Tools Used:
+Tools Used:<br>
+-BigQuery<br>
+-Tableau
 
 Links:
