@@ -11,10 +11,10 @@ Process:<br>
 Cleaning -> EDA -> Modeling -> Dashboard
 
 Results:<br>
-See attached Powerpoint
+See Presentation
 
 Tools Used:<br>
 -BigQuery<br>
 -Tableau
+-PowerPoint
 
-Links:<br>
