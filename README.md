@@ -11,6 +11,7 @@ Process:<br>
 Cleaning -> EDA -> Modeling -> Dashboard
 
 Results:<br>
+See attached Powerpoint
 
 Tools Used:<br>
 -BigQuery<br>
