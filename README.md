@@ -7,7 +7,7 @@ The goal of this project is to analyze hospital patient data to identify key fac
 Dataset Source:<br>
 https://www.kaggle.com/datasets/brandao/diabetes?resource=download&select=diabetic_data.csv
 
-Process:
+Process:<br>
 Cleaning -> EDA -> Modeling -> Dashboard
 
 Results:<br>
