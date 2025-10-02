@@ -1,5 +1,0 @@
-SELECT
-  days_until_readmission,
-  ROUND(AVG(num_medications), 2) AS avg_meds
-FROM `diabetic-473818.diabetic.diabetic-473818`
-GROUP BY days_until_readmission;
