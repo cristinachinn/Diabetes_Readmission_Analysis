@@ -10,6 +10,17 @@ https://www.kaggle.com/datasets/brandao/diabetes?resource=download&select=diabet
 Process:<br>
 Cleaning -> EDA -> Modeling -> Dashboard
 
+Steps Taken:<br>
+-Defined the objective: analyzed diabetes-related data to uncover trends and insights.
+-Determined key question to answer: What is the main driver of hospital readmissions within 30 days?
+-Collect the dataset from Kaggle: https://www.kaggle.com/datasets/brandao/diabetes?select=diabetic_data.csv
+-Cleaned the data which involved identifying and removing critical values, null or empty fields, filling in missing data, correcting typos, standardizing formats and numeric values, removing duplicate values, exluding cases that did not meet project criteria, transforming data, and validating data.
+-Exploratory data analysis: Ran SQL queries to summarize patient demographics, outcomes, and other key metrics.
+-Created charts and visualizations to identify patterns.
+-Data visualization: Built graphs in Tableau to highlight trends and generate visual insights such as discharge paterns, patient distribution, or correlations.
+-Organized files in GitHub.
+-Presentation preparation: Summarized keys findings into slides, including charts and tables to support conclusions. Prepared talking points for analysis and insights.
+
 Results:<br>
 See Presentation
 
